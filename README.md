@@ -1,4 +1,4 @@
-Sonar Clover 
+Sonar Clover (forked)
 ===========
 [![Build Status](https://travis-ci.org/sfeir-open-source/sonar-clover.svg?branch=master)](https://travis-ci.org/sfeir-open-source/sonar-clover)
 
