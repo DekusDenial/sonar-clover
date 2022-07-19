@@ -39,6 +39,11 @@
       <artifactId>json-simple</artifactId>
       <version>1.1.1</version>
     </dependency>
+    <dependency>
+      <groupId>com.fasterxml.woodstox</groupId>
+      <artifactId>woodstox-core</artifactId>
+      <version>6.3.0</version>
+    </dependency>
   </dependencies>
   <build>
     <pluginManagement>
